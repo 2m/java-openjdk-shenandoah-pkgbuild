@@ -3,6 +3,8 @@
 [travis]:          https://travis-ci.org/2m/java-openjdk-shenandoah-pkgbuild
 [travis-badge]:    https://travis-ci.org/2m/java-openjdk-shenandoah-pkgbuild.svg?branch=master
 
+***Deprecated in favour of [jabba](https://aur.archlinux.org/packages/jabba/)***
+
 This repository holds instructions for building an Arch Linux package for [OpenJDK 8 with Shenandoah GC](https://wiki.openjdk.java.net/display/shenandoah/Main).
 
 The PKGBUILD originally taken from [intellij-jdk](https://aur.archlinux.org/packages/intellij-jdk/) package.
